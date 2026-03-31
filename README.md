@@ -7,6 +7,7 @@ Files:
 - `index.html`: landing page
 - `support.html`: App Store Support URL
 - `privacy.html`: App Store Privacy Policy URL
+- `terms.html`: terms of use page
 
 Suggested repository name:
 
